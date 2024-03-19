@@ -20,15 +20,15 @@ Benefits of Using this ToDo app:
 **Start Page:-**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98186477/187093612-15379abb-8ff4-4a84-9603-d86b6e3845d4.jpg" width="200" height="400" />
+  <img src="https://github.com/Rohit-Varshney001/ToDo-/assets/98186477/3a3d15fb-3af5-45b1-9424-ced1ea5eccd8" width="200" height="400" />
 
-  <img src="https://user-images.githubusercontent.com/98186477/187093612-15379abb-8ff4-4a84-9603-d86b6e3845d4.jpg" width="200" height="400" />
+  <img src="https://github.com/Rohit-Varshney001/ToDo-/assets/98186477/630e03b5-a464-4d02-9090-eacd39f6f78c" width="200" height="400" />
 </p>
 
 **Login Page**
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/98186477/187093612-15379abb-8ff4-4a84-9603-d86b6e3845d4.jpg" width="200" height="400" />
+    <img src="https://github.com/Rohit-Varshney001/ToDo-/assets/98186477/2d1845d7-b3e4-46e2-bb1c-66baef19257f" width="200" height="400" />
 </p>
 
 
@@ -40,4 +40,19 @@ Benefits of Using this ToDo app:
   <img src="https://github.com/Rohit-Varshney001/ToDo-/assets/98186477/38a1ca85-052f-4099-8173-36d608ed34dc" width="200" height="400"   />
 </p>
 
+**Category Work:-**
 
+<p align="center">
+  <img src="https://github.com/Rohit-Varshney001/ToDo-/assets/98186477/2547da60-2bd8-419e-bb13-cbbede3577f3" width="200" height="400"   />
+</p>
+
+**Work Edit:-**
+
+<p align="center">
+  <img src="https://github.com/Rohit-Varshney001/ToDo-/assets/98186477/288eebe7-8fd9-4628-9d8b-9ea878f0e8b8" width="200" height="400"   />
+</p>
+
+**Log Out:-**
+<p align="center">
+  <img src="https://github.com/Rohit-Varshney001/ToDo-/assets/98186477/c6954101-0c3a-46da-9250-5f8f1f8b4c9e" width="200" height="400"   />
+</p>
