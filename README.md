@@ -37,11 +37,7 @@ Benefits of Using this ToDo app:
 
 <p align="center">
   <img src="https://github.com/Rohit-Varshney001/ToDo-/assets/98186477/590d059d-2011-4e4a-afc5-11a0d562accf" width="200" height="400"   />
-  <img src="https://user-images.githubusercontent.com/98186477/187093650-8330f444-20db-4f70-a45e-a7e1382a32f2.jpg" width="200" height="400"   />
+  <img src="https://github.com/Rohit-Varshney001/ToDo-/assets/98186477/38a1ca85-052f-4099-8173-36d608ed34dc" width="200" height="400"   />
 </p>
 
 
-
-
-![Home Page](https://github.com/Rohit-Varshney001/ToDo-/assets/98186477/590d059d-2011-4e4a-afc5-11a0d562accf)
-![home page 2](https://github.com/Rohit-Varshney001/ToDo-/assets/98186477/38a1ca85-052f-4099-8173-36d608ed34dc)
